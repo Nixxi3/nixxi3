@@ -2,6 +2,6 @@
 <p align="right">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI4cTNxeTI3bXA5cTlseXcxMXdteW5uZGh1OWtjZm4zM2VmdXR5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QLwSghqbaIRowpu2fr/giphy.gif" alt="GIF Legal" width="100"/>
 </p>
-#Olá, me chamo Paloma e este é meu perfil :)
+
 
 
