@@ -1,2 +1,2 @@
-![GIF Animado](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5jNjR1NmdkMW00ZTdyZngwa3l2c3BjcTZ5Mm1lc2kzc21pYzJhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hkqefnFjn2MWVl6xvq/giphy.gif)
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5jNjR1NmdkMW00ZTdyZngwa3l2c3BjcTZ5Mm1lc2kzc21pYzJhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hkqefnFjn2MWVl6xvq/giphy.gif" alt="GIF Legal" width="200"/>
 
